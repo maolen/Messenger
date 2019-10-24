@@ -6,5 +6,6 @@ namespace Messenger.Models
 {
     public class User
     {
+        
     }
 }
